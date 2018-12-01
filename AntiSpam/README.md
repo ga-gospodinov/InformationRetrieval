@@ -1,0 +1,1 @@
+My solution for [kaggle competition](https://www.kaggle.com/c/antispam-infopoisk)
